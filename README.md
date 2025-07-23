@@ -71,20 +71,19 @@ currency-converter/
 
 ## 📸 Demo
 
-Add a screenshot or hosted link here if available.
+🔗 [Live Demo](https://currency-exchange-1rpf0mybs-akshatsrivastava26s-projects.vercel.app/)
+
+<img width="1910" height="898" alt="Screenshot 2025-07-23 164855" src="https://github.com/user-attachments/assets/1ebf693c-b8e9-4a8c-baac-1547009c609e" />
+
+
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome!  
-If you'd like to contribute, fork the repository and create a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
+If you'd like to improve this project, feel free to **fork** the repository and submit a **pull request**.  
+Bug reports, feature requests, and suggestions are all appreciated!
 
 ---
 
