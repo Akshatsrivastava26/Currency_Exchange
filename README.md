@@ -37,3 +37,32 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/currency-converter.git
 cd currency-converter
 npm install
+
+---
+
+## 🧪 Usage
+
+Start the development server:
+
+```bash
+npm run dev
+
+currency-converter/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── ...
+├── index.html
+├── package.json
+└── vite.config.js
+
+📸 Demo
+Add a screenshot or hosted link here if available.
+
+🤝 Contributing
+Contributions are welcome!
+If you'd like to contribute, fork the repository and create a pull request.
+
+📜 License
+This project is licensed under the MIT License.
